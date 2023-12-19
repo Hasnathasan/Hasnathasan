@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack developer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on an E-Commerce website.<br>- 🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>- 💬 Ask me about JavaScript and React.js<br>- 📫 How to reach me: hasnathasan389@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801751779342<br>📧 Email: hasnathasan389@gmail.com<br>
+- 🔭 I’m currently working on an E-Commerce website.<br>- 🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>- 💬 Ask me about JavaScript and React.js<br>- 📫 How to reach me: hasnathasan389@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801751779342<br>📧 Email: hasnathasan389@gmail.com<br>🌐 Portfolio: https://hasnat-hasan.netlify.app/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hasnathasan&icon=0&color=3)](https://visitcount.itsvg.in)<br>
