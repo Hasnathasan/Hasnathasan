@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnat Hasan</h1>
-<h3 align="center">MERN Stack developer</h3>
+<h3 align="center">MERN STACK DEVELOPER</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on an E-Commerce website.<br>- 🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>- 💬 Ask me about JavaScript and React.js<br>- 📫 How to reach me: hasnathasan389@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801751779342<br>📧 Email: hasnathasan389@gmail.com<br>🌐 Portfolio: https://hasnat-hasan.netlify.app/
