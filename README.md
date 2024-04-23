@@ -24,7 +24,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hasnathasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<a href="https://gitroll.io/profile/uhmUGefshr9Zv471nkJCxGHvYZ5q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhmUGefshr9Zv471nkJCxGHvYZ5q1" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uhmUGefshr9Zv471nkJCxGHvYZ5q1" target="_blank"><img style='width: 200px' src="https://gitroll.io/api/badges/profiles/v1/uhmUGefshr9Zv471nkJCxGHvYZ5q1" alt="GitRoll Profile Badge"/></a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hasnathasan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnathasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
