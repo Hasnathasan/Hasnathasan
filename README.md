@@ -23,8 +23,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hasnathasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<a href="https://gitroll.io/profile/uhmUGefshr9Zv471nkJCxGHvYZ5q1" target="_blank"><img style='width: 200px' src="https://gitroll.io/api/badges/profiles/v1/uhmUGefshr9Zv471nkJCxGHvYZ5q1" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uhmUGefshr9Zv471nkJCxGHvYZ5q1" target="_blank"><img style='width: 400px' src="https://gitroll.io/api/badges/profiles/v1/uhmUGefshr9Zv471nkJCxGHvYZ5q1" alt="GitRoll Profile Badge"/></a> 
+![](https://github-readme-stats.vercel.app/api?username=Hasnathasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hasnathasan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnathasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
